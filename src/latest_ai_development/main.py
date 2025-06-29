@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import sys
 import warnings
+import os # type: ignore
 
 from datetime import datetime
 
